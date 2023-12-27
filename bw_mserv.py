@@ -5,4 +5,4 @@ description = '''Полностью свободный от анти-чита с
 name = 'JBW'
 port = '36766'
 ip = 'BedWarsPro2024.aternos.me'
-icon = CTkImage(Image.open('bw.jpeg'), size=(64, 64))
+icon = CTkImage(Image.open('temp\\bw.jpeg'), size=(64, 64))
